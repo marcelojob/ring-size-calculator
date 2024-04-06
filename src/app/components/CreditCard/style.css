@@ -1,0 +1,9 @@
+.card-part{
+  box-shadow: 1px 1px #aaa3a3;
+  top: 0;
+  background-image: linear-gradient(to right bottom, #fd696b, #fa616e, #f65871, #f15075, #ec4879);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+

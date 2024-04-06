@@ -1,3 +1,3 @@
 export type CreditCardProps = {
-  cardSize: string;
+  cardSize: number;
 }
